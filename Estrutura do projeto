@@ -1,0 +1,15 @@
+data-pipeline-project/
+│
+├── data/
+│   ├── raw/
+│   ├── processed/
+│
+├── src/
+│   ├── extract.py
+│   ├── transform.py
+│   ├── load.py
+│   ├── main.py
+│
+├── config.py
+├── requirements.txt
+└── README.md
